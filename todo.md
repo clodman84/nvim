@@ -1,4 +1,4 @@
 # install luarocks
-# install ripgrep
 # install and setup telescope
-# remove the base plugin setup and make it from scratch
+# install mason and setup language servers
+# install and setup lazygit and toggleterm to work with lazygit
