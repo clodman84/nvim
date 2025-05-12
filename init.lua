@@ -7,3 +7,4 @@ vim.api.nvim_create_autocmd("VimEnter", {
 		vim.cmd("Telescope find_files")
 	end,
 })
+vim.wo.relativenumber = true
