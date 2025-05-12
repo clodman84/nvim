@@ -1,9 +1,9 @@
 # install luarocks
-# install whichkey
 
-# setup blink and snippets
-# setup lua_ls 
-# setup clang_d 
+# setup snippets
+# setup toggleterm
+# setup clang_d for embedded work
+# configure Trouble plugin
 
 # install and setup lazygit and toggleterm to work with lazygit
 
